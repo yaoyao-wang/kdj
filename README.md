@@ -81,11 +81,13 @@ When J crosses over 0 from below, we buy stock as the price will begin to rise s
 
 (7) Finally, we set up the commission fee. Here, we code “commision_type equals strategy.commission.percent” and “commission_value = 0”, which means that we use the percentage type to calculate the commission fee, and here we set up 0% commission fee because most brokers don’t charge the commission fee currently.
 
+    ''''
     //version = 4
     strategy("Yaonology KDJ Indicators Tutorial", overlay=false,
     default_qty_type = strategy.percent_of_equity, default_qty_value = 100,
     currency = currency.USD, initial_capital = 10000,
     commission_type = strategy.commission.percent, commission_value = 0)
+    ''''
 
 ### · Step Two: Parameter Setting
 
