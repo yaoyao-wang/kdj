@@ -18,7 +18,7 @@ plot(k, color = color.blue) // Plot K line
 plot(d, color = color.orange) // Plot D line
 plot(j, color = color.white) //Plot J line
 hline(80, color = color.red, linestyle = hline.style_dashed, linewidth = 1)
-hline(20, color = color.green, linestyle = hline.style_dashed. linewidth = 1)
+hline(20, color = color.green, linestyle = hline.style_dashed, linewidth = 1)
 
 //Step Four: Strategy Entry and Strategy Close
 
