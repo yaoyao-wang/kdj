@@ -1,3 +1,5 @@
+[![KDJ PineScript TradingView Code-along Tutorial | Trading Algorithm](https://res.cloudinary.com/marcomontalbano/image/upload/v1604604680/video_to_markdown/images/youtube--inQCVS23Zls-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=inQCVS23Zls&feature=youtu.be "KDJ PineScript TradingView Code-along Tutorial | Trading Algorithm")
+
 ## 1. What is the KDJ Stochastic Oscillator?
 
 KDJ Stochastic Oscillator is a technical analysis tool developed by George Lane.
