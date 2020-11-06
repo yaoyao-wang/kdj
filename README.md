@@ -51,7 +51,7 @@ When the K is over 100, the stock price might be overbought. During the overboug
 
 ## 3. KDJ Stochastic Oscillator Strategy
 
-### · KD Crossover and Crossunde
+### · KD Crossover and Crossunder
 
 We can use the crosses to identify the best time to enter or exit the market. When we observe a gold cross when K and D are in oversold area, we buy the stock as the price will rebound soon. On the other hand, when we see a death cross in overbought area, we sell the stock as the price has reached it peak and will drop soon
 
