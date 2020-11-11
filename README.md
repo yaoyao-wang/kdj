@@ -179,7 +179,7 @@ It’s very similar to the line we just spend some time talking about.
 
 |  | **Net Profit** | **Precent Profitable** | **Profit Factor** | **Max Drawdown** | 
 | --- | --- | ---| --- | --- |
-| **KD Crossover and Crossunder** | 15.96% | 72.73% | 1.369** | 26.98% |
+| **KD Crossover and Crossunder** | 15.96% | 72.73% | 1.369 | 26.98% |
 
 
 This is the historical cumulative result we get by applying KD strategy only to SPY data.
